@@ -1,1 +1,1 @@
-print("This is my file created by RStudio")
+print("This is my file crated by RStudio")
